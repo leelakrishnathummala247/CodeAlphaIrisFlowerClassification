@@ -24,3 +24,6 @@ The model is trained using the Random Forest Classifier algorithm.
 pip install -r requirements.txt
 
 python main.py
+ 
+## Author 
+Thummala Leela Krishna 
