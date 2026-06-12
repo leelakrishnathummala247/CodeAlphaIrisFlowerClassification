@@ -26,4 +26,5 @@ pip install -r requirements.txt
 python main.py
  
 ## Author 
-Thummala Leela Krishna 
+Name: Thummala Leela Krishna
+GitHub: leelakrishnanthummala247
